@@ -1,0 +1,11 @@
+.news-item {
+  max-width: 95%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 15px 0px;
+
+  &__badge {
+    margin-right: 10px;
+  }
+}
